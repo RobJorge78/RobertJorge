@@ -56,6 +56,6 @@ I'm currently developing a portfolio of original projects to demonstrate my skil
 
 ## Connect With Me
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: [https://github.com/YOUR_USERNAME](https://github.com/RobJorge78)
 
 LinkedIn: *(Coming Soon)*
